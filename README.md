@@ -11,5 +11,6 @@ Cases include a representative collection of all important diagnostic categories
 + Melanocytic nevi (NV)
 + vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, VASC).
 
-
+## Data Visualization
+![image](https://user-images.githubusercontent.com/89575378/163764580-e24b2fc4-648b-4f92-b143-7691adce2784.png)
 
